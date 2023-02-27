@@ -1,0 +1,84 @@
+
+h1 {
+    padding-inline-start: 113px;
+}
+h2 {
+    
+    padding-inline-start: 20px;
+}
+
+#contador {
+    padding-inline-start: 171px;
+}
+
+#desc_perfil {
+    font-family: 'Roboto', sans-serif;
+}
+
+.iconos {
+    height: 30px;
+    width: auto;
+    float: left;
+    
+
+}
+h5 {
+    padding-inline-start: 12px;
+    margin-right: 25px;
+    margin-left: 28px;
+    margin-top: 4px;
+    margin-bottom: 25px;
+    font-size: 16px;
+
+}
+
+section {
+   width: 250px;
+   border: 5px solid grey ;
+   padding: 50px;
+   background-image: url(diseno-de-fondos-blanco-1851.jpg);
+   float:left
+}
+
+#seccion_de_contacto {
+   padding: 2px;
+   border: none;
+}
+.material-icons.md-48 {
+    
+    color: midnightblue;
+    float:left;
+   }
+
+#resumen {
+    width: 507px;
+    border: none;
+    padding: 50px;
+    float:left;
+   }
+
+.bot {
+    color: white;
+    border: black;
+    border-style: solid;
+    background: rgb(6, 6, 82);
+    padding: 5px;
+    border-radius: 15px;
+    text-decoration: none;
+    cursor: pointer;
+} 
+.bot:hover {
+    background: rgb(156, 156, 175);
+}  
+#botones {
+    padding:40px;
+}
+#oculto {
+    display: none;
+}
+.año {
+    color:red;
+}
+
+
+   
